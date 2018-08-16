@@ -11,7 +11,6 @@
          
          4, 添加代理回调 点击事件
          
-         
-          ![image](https://github.com/luzhilei/LuWaveView/blob/master/LuWaveView/Assets.xcassets/wave.imageset/wave.png)
 
          
+![image](https://github.com/luzhilei/LuCycleView/blob/master/LuCycleView/Assets.xcassets/pic.imageset/pic.png)
